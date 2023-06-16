@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\bin\Debug\net6.0\LinkedLIst.exe
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\bin\Debug\net6.0\LinkedLIst.deps.json
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\bin\Debug\net6.0\LinkedLIst.runtimeconfig.json
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\bin\Debug\net6.0\LinkedLIst.dll
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\bin\Debug\net6.0\LinkedLIst.pdb
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.dll
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\refint\LinkedLIst.dll
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.pdb
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\LinkedLIst.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\LinkedLIst\LinkedLIst\obj\Debug\net6.0\ref\LinkedLIst.dll
